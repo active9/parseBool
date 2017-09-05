@@ -13,7 +13,7 @@ npm install --save parseBool
 
 Using parseBool is simple. Just require it and use it as if it was a function.
 ```bash
-var parseBool = require('parseBool');
+var parseBool = require('parsebool');
 console.log(parseBool('true')); // Outputs true
 ```
 

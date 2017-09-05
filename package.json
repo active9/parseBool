@@ -1,5 +1,5 @@
 {
-  "name": "parseBool",
+  "name": "parsebool",
   "version": "1.0.0",
   "description": "The missing parseBool function we all secretly want",
   "main": "index.js",
