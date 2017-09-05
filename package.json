@@ -1,5 +1,5 @@
 {
-  "name": "parsebool",
+  "name": "parseboolean",
   "version": "1.0.0",
   "description": "The missing parseBool function we all secretly want",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/active9/parseBool"
+    "url": "https://github.com/active9/parseBoolean"
   },
   "keywords": [
     "bool",
@@ -20,9 +20,9 @@
   "author": "Active 9 LLC.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/active9/parseBool/issues"
+    "url": "https://github.com/active9/parseBoolean/issues"
   },
-  "homepage": "https://github.com/active9/parseBool",
+  "homepage": "https://github.com/active9/parseBoolean",
   "directories": {
     "test": "tests"
   }

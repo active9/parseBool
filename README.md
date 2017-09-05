@@ -1,19 +1,19 @@
-# parseBool
+# parseBoolean
 The missing parseBool function we all secretly want
 
-# Installing parseBool
+# Installing parseBoolean
 
 Using npm
 
 ```bash
-npm install --save parseBool
+npm install --save parseboolean
 ```
 
 # Usage
 
 Using parseBool is simple. Just require it and use it as if it was a function.
 ```bash
-var parseBool = require('parsebool');
+var parseBool = require('parseboolean');
 console.log(parseBool('true')); // Outputs true
 ```
 
